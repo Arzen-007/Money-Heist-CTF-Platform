@@ -1,0 +1,45 @@
+{
+  "common": {
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "delete": "Eliminar",
+    "edit": "Editar",
+    "create": "Crear",
+    "submit": "Enviar",
+    "loading": "Cargando...",
+    "error": "Error",
+    "success": "Éxito",
+    "warning": "Advertencia",
+    "info": "Información"
+  },
+  "auth": {
+    "login": {
+      "title": "Iniciar Sesión",
+      "username": "Usuario",
+      "password": "Contraseña",
+      "submit": "Iniciar Sesión",
+      "forgot_password": "¿Olvidaste tu contraseña?",
+      "register": "¿No tienes cuenta? Regístrate"
+    },
+    "register": {
+      "title": "Registrarse",
+      "username": "Usuario",
+      "email": "Correo Electrónico",
+      "password": "Contraseña",
+      "confirm_password": "Confirmar Contraseña",
+      "submit": "Crear Cuenta",
+      "login": "¿Ya tienes cuenta? Inicia Sesión"
+    }
+  },
+  "challenges": {
+    "title": "Desafíos",
+    "categories": {
+      "web": "Seguridad Web",
+      "crypto": "Criptografía",
+      "forensics": "Forense Digital",
+      "misc": "Misceláneo",
+      "pwn": "Explotación Binaria",
+      "reverse": "Ingeniería Inversa"
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "common": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "create": "Create",
+    "submit": "Submit",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "warning": "Warning",
+    "info": "Information"
+  },
+  "auth": {
+    "login": {
+      "title": "Login",
+      "username": "Username",
+      "password": "Password",
+      "submit": "Sign In",
+      "forgot_password": "Forgot Password?",
+      "register": "Don't have an account? Register"
+    },
+    "register": {
+      "title": "Register",
+      "username": "Username",
+      "email": "Email",
+      "password": "Password",
+      "confirm_password": "Confirm Password",
+      "submit": "Create Account",
+      "login": "Already have an account? Login"
+    },
+    "errors": {
+      "invalid_credentials": "Invalid username or password",
+      "user_exists": "User already exists",
+      "weak_password": "Password is too weak"
+    }
+  },
+  "challenges": {
+    "title": "Challenges",
+    "categories": {
+      "web": "Web Security",
+      "crypto": "Cryptography",
+      "forensics": "Digital Forensics",
+      "misc": "Miscellaneous",
+      "pwn": "Binary Exploitation",
+      "reverse": "Reverse Engineering"
+    },
+    "difficulty": {
+      "easy": "Easy",
+      "medium": "Medium",
+      "hard": "Hard",
+      "expert": "Expert"
+    },
+    "status": {
+      "unsolved": "Unsolved",
+      "solved": "Solved",
+      "attempted": "Attempted"
+    }
+  },
+  "scoreboard": {
+    "title": "Scoreboard",
+    "rank": "Rank",
+    "team": "Team",
+    "score": "Score",
+    "challenges_solved": "Challenges Solved",
+    "last_solve": "Last Solve"
+  },
+  "messages": {
+    "title": "Messages",
+    "send": "Send Message",
+    "placeholder": "Type your message...",
+    "no_messages": "No messages yet"
+  }
+}

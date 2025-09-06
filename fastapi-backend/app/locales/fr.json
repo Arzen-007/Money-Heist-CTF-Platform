@@ -1,0 +1,25 @@
+{
+  "common": {
+    "save": "Sauvegarder",
+    "cancel": "Annuler",
+    "delete": "Supprimer",
+    "edit": "Modifier",
+    "create": "Créer",
+    "submit": "Soumettre",
+    "loading": "Chargement...",
+    "error": "Erreur",
+    "success": "Succès",
+    "warning": "Avertissement",
+    "info": "Information"
+  },
+  "auth": {
+    "login": {
+      "title": "Connexion",
+      "username": "Nom d'utilisateur",
+      "password": "Mot de passe",
+      "submit": "Se connecter",
+      "forgot_password": "Mot de passe oublié ?",
+      "register": "Pas de compte ? S'inscrire"
+    }
+  }
+}
